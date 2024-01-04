@@ -165,5 +165,5 @@
 
 /* 3. 체크박스를 존재는 하지만 보이지 않게 처리 */
 #check{
-    display: none; /* 표시하지 않겠다 */
+    display: none;
 }
